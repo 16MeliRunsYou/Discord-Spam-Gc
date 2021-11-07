@@ -1,5 +1,4 @@
 # Discord-Spam-Gc
-a tool that makes groupchats with the client id you input
-NOTE : against discord TOS
-IMPORTANT : it is important that you put your token in self.token line, i suggest using 1 thread so you won't get rate limited
-please do not abuse this tool and give credits to 16Meli.
+a tool that spam create groupchat, troll anyone you want.
+
+HOW TO USE : enter your token in self.token section, to select which people you want in the groupchat copy the id of the user and paste it where it says friend id here.
